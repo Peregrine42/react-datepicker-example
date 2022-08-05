@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "date-fns": "^2.29.1",
+    "react": "^18.2.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.53",
+    "http-server": "^14.1.1"
+  }
+}
